@@ -31,6 +31,8 @@ Here's a walkthrough of implemented user stories:
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Glide was difficult to work with but I caught an error message from it about file shape
+- Emulator was very very glitchy and did not have internet connection (despite giving permissions). Emulator didn't close either so I had to shut down Android studio a couple times and delete some emulator files to create a new one and shut down the old one.
 
 ## License
 
